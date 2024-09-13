@@ -1,0 +1,142 @@
+body {
+    overflow-x: hidden; /* Hides horizontal scrollbar */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+a:hover .MarchelNgujo {
+    color: #EA5C5A; /* Custom hover color */
+    transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+/* ANOTHER ANIMATION */
+
+/*.phone-number {
+    color: white; /* Default color */
+    /*transition: color 0.3s ease; /* Smooth transition */
+/*}*/
+
+/*.phone-number:hover {
+    color: #EA5C5A; /* Change color on hover */
+    /*cursor: pointer; /* Change cursor to pointer */
+/*}*/
+
+/* Hover effect for the phone number */
+.phone-number:hover {
+    color: #EA5C5A; /* Custom hover color */
+    transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+/* Hover effect for email address */
+.Marchelngujo2GmailCom:hover {
+    color: #EA5C5A; /* Custom hover color */
+    transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+  /* Style for the heart icon container */
+  .Heart {
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 154px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+/* Style for the Font Awesome heart icon */
+.Icon i {
+    color: #EA5C5A; /* Icon color */
+    font-size: 16px; /* Adjust icon size as needed */
+}
+
+.Heart2 {
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 234px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+.Heart3 {
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 309px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+.Heart4 {
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 381px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+
+/* Style for the Font Awesome heart icon */
+.Iconii {
+    color: #fbfbfb; /* Icon color */
+    font-size: 16px; /* Adjust icon size as needed */
+}
+
+
+.Heart5 {
+    width: 30px;
+    height: 30px;
+    left: 70px;
+    top: 200px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+.Heart6 {
+    width: 30px;
+    height: 30px;
+    left: 70px;
+    top: 280px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+/* ICONS in Hobbies or Interests */
+ /* Container for the icon */
+ .DiscOutline1 {
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Centers the icon vertically */
+    justify-content: center; /* Centers the icon horizontally */
+}
+
+/* Styling the Font Awesome icon */
+.DiscOutline1 i {
+    font-size: 80px; /* Icon size */
+    color: #EA5C5A; /* Optional: set the icon color */
+}
+
